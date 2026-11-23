@@ -1,24 +1,22 @@
 # Devika B Nair — Portfolio
 
-A responsive personal portfolio website using HTML, CSS and JavaScript, with a warm neutral editorial design.
+A responsive personal portfolio website with a warm beige editorial design.
 
 ## Files
-- `index.html` — page content
+- `index.html` — portfolio content
 - `style.css` — layout, typography and responsive styling
 - `script.js` — mobile navigation and current year
+- `devika-photo.jpg` — profile photograph
 
-## Before publishing
-- Replace `your-email@example.com` with your email address.
-- Update the LinkedIn link with your profile URL.
-- Review the education, skills and project descriptions for accuracy.
-- The hero portrait area is a typographic placeholder; replace it with a photograph if you want one.
+## Personalisation
+The portfolio includes Devika's contact details, education, academic-level skills, three academic projects, and Grant Thornton cybersecurity training information.
 
 ## Run locally
-Open `index.html` in a web browser.
+Extract the ZIP file and open `index.html` in a web browser. An internet connection is required to load the Google Fonts; the site itself works without them using fallback fonts.
 
 ## Publish with GitHub Pages
 1. Create a public repository named `devikabnair.github.io`.
-2. Upload all files to the repository root.
+2. Extract this ZIP and upload the contents of the `devika-portfolio` folder to the repository root (not the outer folder).
 3. Go to Settings → Pages.
 4. Choose Deploy from a branch, select `main` and `/(root)`, then save.
 5. Your website will appear at `https://devikabnair.github.io/` after deployment.
